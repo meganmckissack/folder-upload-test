@@ -11,4 +11,5 @@ function draw() {
     for(let j = 0; j <= height; j+= 20) {
       circle(mouseX, mouseY, 10);
     }
+    }
 }
